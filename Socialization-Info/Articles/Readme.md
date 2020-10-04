@@ -1,1 +1,1 @@
-All the articles that we are going to based on are in here.
+All the articles that we used as reference go here.
