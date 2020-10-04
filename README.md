@@ -1,2 +1,2 @@
-# Looking-for-Fire
+# FireFly
 All tha data about the challenge of Automated Detection of Hazards will be upload here.
