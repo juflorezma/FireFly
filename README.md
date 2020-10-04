@@ -1,4 +1,8 @@
 # FireFly
+<p align="center">
+  <b> # FireFly :</b><br>
+  <img src="Socialization-Info/firefly.png">
+</p>
 <img src="Socialization-Info/firefly.png" width="300">
 <br/>
 ## Brief description
