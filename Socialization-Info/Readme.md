@@ -8,7 +8,9 @@ Our app will work on the municipalities belonging to the Orinoquía natural regi
 Two governmental institutions: CORMACARENA, CORPORINOQUIA.
 ## Variables involved in the impact assessment:
 During the evaluation of the possible consequences of bushfires, the following factors will be taken into account: 
+
 -AQI (Air Quality Index) of the region.
 -Density of animal species and vegetation.
 -Proximity to urban and rural centres.
+
 # Motivation
