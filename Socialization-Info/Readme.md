@@ -14,7 +14,6 @@ During the evaluation of the possible consequences of bushfires, the following f
 -Proximity of the fire location to urban and rural centres.
 
 ## App features
-The following are flowcharts representing the functioning of the app for the different target users:
-![](Socialization-Info/Report_Fire_Civilian_Flowchart.png)
+The flowcharts representing the functioning of the app for the different target users are included in this folder.
   
 
