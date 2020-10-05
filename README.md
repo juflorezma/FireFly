@@ -9,5 +9,5 @@ This project is being developed as part of the NASA International Space Apps Cha
 ## This repository
 In this repository you will find our codes, information about the datasets used to train the algorithm together with the documentation used as reference. In addition to it, we provide a sketch of the UI of the app.
  
-## Contact info
+## About us
 We are a group of four physicists, an industrial engineer and a software developer from Colombia.
