@@ -1,10 +1,10 @@
 # Code
 
-We divided the app functionality in several parts as:
+The app functionality was divided in the following parts:
 
 ## Frontend design
 
-Using an application, we made a scheme of the FireFly app of how it would work, but is not functional.
+Using an application we created a scheme of the way the application would work, but is not functional.
 
 
 ## Backend
