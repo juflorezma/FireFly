@@ -23,5 +23,8 @@ During the evaluation of the possible consequences of bushfires, the following f
 
 ## App features
 The flowcharts representing the functioning of the app for the different target users are included in this folder.
+
+## Cost diagram
+[Here](https://canvanizer.com/canvas/reuLSgNMWwnhT) you can find the detailed cost diagram for this project.
   
 
