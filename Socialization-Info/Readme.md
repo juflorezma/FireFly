@@ -15,7 +15,6 @@ During the evaluation of the possible consequences of bushfires, the following f
 
 ## App features
 The following are flowcharts representing the functioning of the app for the different target users:
-![](Socialization-Info/Report_Fire_Civilian_Flowchart.png)<br/>
-![](Socialization-Info/Report_Fire_Fireman.png)
+![](Socialization-Info/Report_Fire_Civilian_Flowchart.png)
   
 
