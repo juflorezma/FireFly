@@ -1,7 +1,7 @@
 # Socialization Information
 
 ## Chosen locations
-At the beginning our app will be implemented on the municipalities belonging to the Orinoquía natural region in Colombia. Nevertheless, due to the universality of the classifications performed by the algorithms it could be extended to others regions.
+At the beginning our app will be implemented on the municipalities belonging to the Orinoquía natural region in Colombia. Nevertheless, due to the universality of the classifications performed by the algorithms it can be extended to others regions.
 ## Target users
 Residents of the specified municipalities as well as the fire departments subscribed to these municipalities. Furthermore, our data could be used by environment related institutions operating in the Orinoquía region, such as CORMACARENA and CORPORINOQUIA, within their frameworks of disaster prevention and mitigation.
 
