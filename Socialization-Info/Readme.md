@@ -5,6 +5,14 @@ At the beginning our app will be implemented on the municipalities belonging to 
 ## Target users
 Residents of the specified municipalities as well as the fire departments subscribed to these municipalities. Furthermore, our data could be used by environment related institutions operating in the Orinoquía region, such as CORMACARENA and CORPORINOQUIA, within their frameworks of disaster prevention and mitigation.
 
+<p align="center">
+  <img src="Report_Fire_Civilian_Flowchart.png" width="400">
+</p>
+
+<p align="center">
+  <img src="Report_Fire_Fireman.png" width="400">
+</p>
+
 ## Variables involved in the impact assessment:
 
 During the evaluation of the possible consequences of bushfires, the following factors could be taken into account: <br/>
