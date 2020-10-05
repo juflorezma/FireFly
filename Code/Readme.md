@@ -21,7 +21,7 @@ Using an application, we made a scheme of the FireFly app of how it would work, 
 
 ## Frontend
 
-A complete scheme of the application is shown in: https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fxd.adobe.com%2Fview%2F1ae52780-4597-4d91-b26b-0259d5d75c86-4fb6%2F
+A complete scheme of the application is shown in: https://xd.adobe.com/view/1ae52780-4597-4d91-b26b-0259d5d75c86-4fb6/
 
 ## Backend
 
