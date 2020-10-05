@@ -44,3 +44,4 @@ In both cases, the detection of the wildfires smoke is poor. This is caused main
 # References
 - Mask RNNC: https://github.com/matterport/Mask_RCNN
 - Henry Ruiz, David Lopera. FalconCV, an open-source transfer learning library that offers developers an interface to interact with some of the most popular computer vision frameworks. https://github.com/haruiz/FalconCV
+- CV Studio: https://github.com/haruiz/CvStudio
