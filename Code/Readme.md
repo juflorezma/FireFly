@@ -25,6 +25,21 @@ A complete scheme of the application is shown in: https://xd.adobe.com/view/1ae5
 
 ## Backend
 
+### With FalconCv
+<p align="center">
+  <img src="Smoke-Detection-FalconCv.png" width="500">
+</p>
+<p align="center">
+  <img src="Smoke-Detection-FalconCv-2.png" width="500">
+</p>
+
+### With Masks RNNC
+
+<p align="center">
+  <img src="Smoke-Detection-RNNC.jpeg" width="500">
+</p>
+
+In both cases, the detection of the wildfires smoke is poor. This is caused mainly because the dataset that the algorithm was based on have not so many images to be analized. A good dataset has to be, at minimun, composed of 10k images.
 
 # References
 - Mask RNNC: https://github.com/matterport/Mask_RCNN
