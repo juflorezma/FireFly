@@ -13,3 +13,9 @@ During the evaluation of the possible consequences of bushfires, the following f
 -Density of animal species and vegetation in the region. <br/>
 -Proximity of the fire location to urban and rural centres.
 
+## App features
+The following are flowcharts representing the functioning of the app for the different target users.
+  <img src="Socialization-Info/Report_Fire_Civilian_Flowchart.png" width="300"> <br/>
+  <img src="Socialization-Info/Report_Fire_Fireman.png" width="300"> <br/>
+  
+
