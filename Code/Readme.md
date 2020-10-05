@@ -1,6 +1,6 @@
 # Code
 
-We devided the app functionality in several parts as:
+We divided the app functionality in several parts as:
 
 ## Frontend design
 
@@ -9,11 +9,11 @@ Using an application, we made a scheme of the FireFly app of how it would work, 
 
 ## Backend
 
-- Getting the data: We got the data of wildfires from the kiggle database of Australia and, using the CvStudio program, we labeled the zones were we found fire smoke. Also, we made use of the AWS dataset provided for the challenge.
+- Getting the data: We got the data of wildfires from the kaggle database of Australia and using the CVStudio program, we labeled the zones where we found fire smoke. In addition, we made use of the AWS dataset provided for the challenge.
 
-- Trainning the algorithm: We used to main programs that we found for the algorithm trainning: FalconCv, making use of the Australia data and Mask RCNN, making use of the AWS data, were we had to separate the layers of each image with an image public editor.
+- Trainning the algorithm: We used two main programs that we found for the algorithm trainning: FalconCV, making use of the Australia data and Mask RCNN, ad using as well the AWS data, where we separated the layers of each image with an image public editor.
 
-- Sending fire alerts: we propose a code for sending whatsapp alerts when wildfires happend near them.
+- Sending fire alerts: We propose a code for sending WhatsApp alerts when wildfires happen near them.
 
 - Report wildfires.
 
